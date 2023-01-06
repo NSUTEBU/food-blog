@@ -106,7 +106,7 @@ main {
 }
 
 .foot a {
-text-decoration: underline;
+  text-decoration: underline;
   color: #000;
 }
 
@@ -247,83 +247,83 @@ footer h1 {
 }
 
 @media only screen and (max-width: 600px) {
-.page-container {
-  width: 100vw;
-  margin: auto;
+  .page-container {
+    width: 100vw;
+    margin: auto;
 }
 
-body {
-  width: 100%;
+  body {
+    width: 100%;
 }
 
-header {
+  header {
 /* width: 100vw; */
-  font-size: smaller;
+    font-size: smaller;
 }
 
-nav {
-  width: 90%;
-  margin: auto;
+  nav {
+    width: 90%;
+    margin: auto;
 }
 
-main {
-  display: block;
+  main {
+    display: block;
 }
 
-.first-food {
-  grid-template-columns: 1fr;
+  .first-food {
+    grid-template-columns: 1fr;
 }
 
-.line1,
-.line2 {
-  margin: 0 10%;
-  justify-content: center;
+  .line1,
+  .line2 {
+    margin: 0 10%;
+    justify-content: center;
 }
 
-.about {
-  justify-content: center;
-  margin: 0 10%;
+  .about {
+    justify-content: center;
+    margin: 0 10%;
 }
 
-.food-g .img {
-  margin: auto;
-  max-width: 500px;
-  min-width: 200px;
-  height: 500px;
-  width: 80%;
+  .food-g .img {
+    margin: auto;
+    max-width: 500px;
+    min-width: 200px;
+    height: 500px;
+    width: 80%;
 }
 
-.food-g .text {
-  max-width: 450px;
-  width: 80%;
-  text-align: center;
-  margin: 10px auto;
+  .food-g .text {
+    max-width: 450px;
+    width: 80%;
+    text-align: center;
+    margin: 10px auto;
 }
 
-.foot-p {
-  text-align: center;
+  .foot-p {
+    text-align: center;
 }
 
-footer {
-  display: block;
-  margin: auto;
-  max-width: 250px;
+  footer {
+    display: block;
+    margin: auto;
+    max-width: 250px;
 }
 
-.blog-post hr {
-  max-width: 300px;
+  .blog-post hr {
+    max-width: 300px;
 }
 
-footer div {
-  max-width: 400px;
-  margin: 10px auto;
+ footer div {
+    max-width: 400px;
+    margin: 10px auto;
 }
 
-.tag-2 {
-  margin: 4px;
+  .tag-2 {
+    margin: 4px;
 }
 
-.tag-1 {
-  margin: 2px;
+  .tag-1 {
+    margin: 2px;
 }
 }
