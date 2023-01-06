@@ -250,40 +250,40 @@ footer h1 {
   .page-container {
     width: 100vw;
     margin: auto;
-}
+  }
 
   body {
     width: 100%;
-}
+  }
 
   header {
 /* width: 100vw; */
     font-size: smaller;
-}
+  }
 
   nav {
     width: 90%;
     margin: auto;
-}
+  }
 
   main {
     display: block;
-}
+  }
 
   .first-food {
     grid-template-columns: 1fr;
-}
+  }
 
   .line1,
   .line2 {
     margin: 0 10%;
     justify-content: center;
-}
+  }
 
   .about {
     justify-content: center;
     margin: 0 10%;
-}
+  }
 
   .food-g .img {
     margin: auto;
@@ -291,39 +291,39 @@ footer h1 {
     min-width: 200px;
     height: 500px;
     width: 80%;
-}
+  }
 
   .food-g .text {
     max-width: 450px;
     width: 80%;
     text-align: center;
     margin: 10px auto;
-}
+  }
 
   .foot-p {
     text-align: center;
-}
+  }
 
   footer {
     display: block;
     margin: auto;
     max-width: 250px;
-}
+  }
 
   .blog-post hr {
     max-width: 300px;
-}
+  }
 
  footer div {
     max-width: 400px;
     margin: 10px auto;
-}
+  }
 
   .tag-2 {
     margin: 4px;
-}
+  }
 
   .tag-1 {
     margin: 2px;
-}
+  }
 }
